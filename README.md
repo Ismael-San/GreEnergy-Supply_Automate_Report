@@ -1,4 +1,4 @@
-# Green-Warmology_Automate_Report
+# Green-Warmology Automate Report
 
 ## Table of Contents
 

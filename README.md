@@ -23,6 +23,8 @@ Now that a year has passed since the platform's launch, the sales and marketing 
 * **Product-Level Performance**: In-depth analysis of product trends during the period to understand their impact on sales.
 * **Customer Segmentation**: Evaluation of customer behavior by age range and loyalty membership.
 
+## Business Case Request from Head of Operations
+
 ## Data Structure
 
 An interactive Tableau Desktop dashboard can be found [here](https://public.tableau.com/app/profile/ismael.cisse/viz/ElecTechAnalysis/ExecutiveOverview?publish=yes).

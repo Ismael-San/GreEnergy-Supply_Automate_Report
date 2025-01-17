@@ -5,6 +5,7 @@
 * [Overview](#project-overview)
 * [Project Background](#project-background)
 * [Data Structure](#data-structure)
+* [Caveats & Assumptions](#caveats-assumptions)
 
 ## Project Overview
 

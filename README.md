@@ -28,3 +28,5 @@ An interactive Tableau Desktop dashboard can be found [here](https://public.tabl
 The Python file utilised to clean, organize, and prepare data for the dashboard can be found here(insert link).
 
 (Insert Screen of Dataset - from Python)
+
+## Caveats & Assumptions

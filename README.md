@@ -1,4 +1,4 @@
-# GreenEnergy Automate Report
+# GreEnergy Automate Report
 
 ## Table of Contents
 

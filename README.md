@@ -15,8 +15,6 @@
 
 ## Project Background
 
-Greenery - CleanEnergy est un fournisseur d’énergie spécialisé dans la fourniture d’énergie et d’équipement à faible consommation (d’energie). Le gouvernement a promulgué en (XXX) la loi POPE ; obligeant les fournisseurs d’énergie à atteindre un objectif en terme de volume TWhcumac selon la période (2022-2025 = 5th period - 3100 TWhcumac) ceci afin lutter face aux crises et dérèglements climatiques que nous subissons à l’échelle mondiale. 
-
 GreEnergy-Supply is a french energy supplier specializing in equipment and provide of renewable and thermal energy. The French Govermennt, which has established political measures towards energy transition with P.O.P.E law in 2005, is conducting a high political pressure towards energy suppliers in order to reduce energy consumption. As we ended the 5th period (2022-2025), the energy savings target has been fixed to 3100 TWhcumac (amount splited between energy supplier), a unit mesure of energy saving where 1kWh cumac represents a singular "White Certificate". 
 
 White Certificate or Energy Savings Certificate (ESC) is supplier's "gold ticket" that guarantees its efforts in reducing energy consumption and the exemption from taxes as well. To support this they initiate incitative energy-improvement interventions in their equipment by offering funds to their clients, whether their statut (private or companies) or if it concerns thermal or electrical fields. 
@@ -25,8 +23,7 @@ These certificates cover a huge selection of interventions and applications. Gre
 
 To achieve this, the energy-product section has engaged our expertise as data analysts to leverage data collected from each site that is eligible for BAR SE-104 certificate delivery. The mission aims to generate Python code that will automatically create a report for each site based on the elements required to obtain the Energy Savings Certificate.
 
-In order to achieve this the energy product section has engaged our expertise as data analysts to leverage data collected during the expertise. The analysis aims to provide a deeper understanding of sales performance across product types and customer segments, and to support impactful decision-making for strategy development.
-In order the ecology product team have engaged our expertise as data analysts to leverage data collected from each site that are/is eligible to BAR SE-104 CEE delivery. The mission aims to generate a Python code that will automatically create a report for each site based on elements required to obtain the CEE - accelerate transition and accomplish objectives dressed by the government in terms of TWhcumac 
+accelerate transition and accomplish objectives dressed by the government in terms of TWhcumac 
 
 
 

@@ -6,11 +6,14 @@
 * [Project Background](#project-background)
 * [Business Case Request from Head of Operations](#Business-Case-Request-from-Head-of-Operations)
 * [Data Structure](#data-structure)
+* [Certificate Delivery Conditions](#certificate-delivery-conditions)
 * [Caveats & Assumptions](#caveats-assumptions)
 
 ## Project Overview
 
-## **The goal of this project is to provide valuable insights into the sales performance of a e-commerce company over the past year. By analyzing various aspects of the sales data such as revenue, customer behaviour and product-level performance, we aim to identify patterns, implement effective solutions and produce data-driven recommendations for its marketing and sales teams.**
+## **The goal of this project is to provide valuable insights into the sales performance of a e-commerce company over the past year. By analyzing various aspects of the sales data such as revenue, customer behaviour and product-level performance, we aim to identify patterns, implement effective solutions and produce data-driven recommendations for its marketing and sales teams.** Template
+
+## ** The project’s goal here was to (provide/create find the most suitable verb) an automate report for each site present in XXX database. By using client’s data (Info-Equilibrage-Température and photos folders; Chaufferie - Pompes - Vannes, we aim to generate a Python code that will generate automatic report. XXX assigned to us this mission in order to increase the generation of reports and facilitate the obtention of “white certificate”, and hence achieved goal fixed by the government and so reduce the energy (fossil) consumption. ** 
 
 ## Project Background
 
@@ -32,25 +35,27 @@ In order the sales and marketing teams have engaged our expertise as data analys
 
 "Hello Ismael,
 
-I hope you are doing well, 
+I hope you are doing well,
 
-Our energy-product team is preparing a national energy consumption campaign towards the all country in order to (deeply or alternative) increase the obtention of “White Certificate” in the country. For that we need to ease the generation of report that regroup site information need to obtain these certificates. 
+Well 5th period is coming to the end and our energy-product team is currently preparing a detailed-report (compte rendu) that retrieves all interventions related to BAR SE-104 operations towards/concerning our clients. In order to be eligible and collect the CEE delivered by the government, we need to generate, for each site, a singular report that regroups justified document specific to the operation such as client’s data, photos (boiler, pump etc…) 
 
-Can you help us provide a script code using Python that will automatically generate an individually report for each of our clients based on their data present in our database.
+*comme présence de conditions requises notamment la présence de document justificatifs pour la délivrance de certificats - 
 
-Here is a deep look of different elements present in each “site” folder that I have attached:
+Can you please help us providing a Python script code that will automatically generate individual report for each of our clients based on their data collected inside our database. 
 
-- A folder called “Site_Data” that regroup all client data in excel files
-- A PDF file that you will use as template (only page 1 - 5 - 7 - 8 and 10 need modification - the rest can add to each report)
-- Image folder which/that contains client photos of different pieces “Chaufferie”, “Façade”, “Vannes”, “Pompes” that you need to replace in the template report
+Here is a deeper look of elements that compose  “site” folder that I have attached:
 
-What you need to know: each client file will be located inside a “REPORT_EQ_23(= the year)/T1(= trimester)/R122( = report number)-Site_Name”
+- a folder called “Site_Data” that regroup clients information in excel files (”données_clients” file that contains three sheets : Info - Équilibrage - Températures
+- “Images” folder which/that contains client photos of different pieces “Chaufferie”, “Façade”, “Vannes”, “Pompes” that you will need to replace in the template report
+- A PDF file that you will use as template (page 1 - 5 - 7 - 8 - 10 need modification for each client - the rest is unchanged)
+
+Additional information: each client’s file are located in a file called “REPORT_EQ_23(23 correspond to the year)/T1(= trimester)/R122( = report number)-Site_Name”
 
 Feel free to send any questions in the meantime,
 
 Looking forward to hearing from you,
 
-Emma”
+Gabrielle”
 
 ## Data Structure
 
@@ -58,5 +63,7 @@ An interactive Tableau Desktop dashboard can be found [here](https://public.tabl
 The Python file utilised to clean, organize, and prepare data for the dashboard can be found here(insert link).
 
 (Insert Screen of Dataset - from Python)
+
+## Certificate Delivery Conditions
 
 ## Caveats & Assumptions

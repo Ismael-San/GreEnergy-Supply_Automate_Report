@@ -20,6 +20,8 @@ C’est pourquoi les fournisseurs proposent un système de financement auprès d
 
 Plusieurs types d’équipement et d’installation permettent l’obtention de ces certificats CEE, GreenEnergy / CleanEnergy se focalise sur celle de type BAR SE-104; le “réglage des organes d’équilibrage d’une installation de chauffage à eau chaude”  procédure centrée sur une répartition équilibrée de la chaleur dans différents logements…
 
+In order the sales and marketing teams have engaged our expertise as data analysts to leverage data collected over the past year. The analysis aims to provide a deeper understanding of sales performance across product types and customer segments, and to support impactful decision-making for strategy development.
+
 **In order to evaluate sales performance, we focused our insights and recommendations on the following key metrics:**
 
 * **Sales Trend Analysis**: Assessment of sales patterns by product and customer, focusing on Revenue, Average Order Value (AOV), and Order Volume.

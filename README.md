@@ -11,7 +11,7 @@
 
 ## Project Overview
 
-## **The project’s goal here is to (provide/create find the most suitable verb) an automate report for each site present in GreEnergy-Supply database and ones that will be add in the future. By using client’s data (Info-Equilibrage-Température and photos folders; Chaufferie - Pompes - Vannes, we aim to generate a Python code that will generate automatic report. GreEnergy-Supply assigned to us this mission in order to increase the generation of reports  and facilitate the obtention of “white certificate” in respect of its delivery conditions, and hence achieved goal fixed by the government and so reduce the energy (fossil) consumption.** 
+## **Project's goal here is to develop an automated report generation system for each client's site listed in the GreEnergy-Supply database, as well as future ones. GreEnergy-Supply has entrusted us with this mission to streamline the report generation process and facilitate the acquisition of "White certificate" in compliance with delivery conditions. This initiative aims to meet government targets (3100 TWhcumac 2022-2025) and hence reduce fossil energy consumption.** 
 
 ## Project Background
 

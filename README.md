@@ -23,13 +23,12 @@ White Certificate or Energy Savings Certificate (ESC) is supplier's "gold ticket
 
 These certificates cover a huge selection of interventions and applications. GreEnergy-Supply is focusing on BAR SE-104: "Balancing Heating System" a process that guarantees a balanced distribution of heat across different appartment.
 
-In order the sales and marketing teams have engaged our expertise as data analysts to leverage data collected over the past year. The analysis aims to provide a deeper understanding of sales performance across product types and customer segments, and to support impactful decision-making for strategy development.
+To achieve this, the energy-product section has engaged our expertise as data analysts to leverage data collected from each site that is eligible for BAR SE-104 certificate delivery. The mission aims to generate Python code that will automatically create a report for each site based on the elements required to obtain the Energy Savings Certificate.
 
-**In order to evaluate sales performance, we focused our insights and recommendations on the following key metrics:**
+In order to achieve this the energy product section has engaged our expertise as data analysts to leverage data collected during the expertise. The analysis aims to provide a deeper understanding of sales performance across product types and customer segments, and to support impactful decision-making for strategy development.
+In order the ecology product team have engaged our expertise as data analysts to leverage data collected from each site that are/is eligible to BAR SE-104 CEE delivery. The mission aims to generate a Python code that will automatically create a report for each site based on elements required to obtain the CEE - accelerate transition and accomplish objectives dressed by the government in terms of TWhcumac 
 
-* **Sales Trend Analysis**: Assessment of sales patterns by product and customer, focusing on Revenue, Average Order Value (AOV), and Order Volume.
-* **Product-Level Performance**: In-depth analysis of product trends during the period to understand their impact on sales.
-* **Customer Segmentation**: Evaluation of customer behavior by age range and loyalty membership.
+
 
 ## Business Case Request from Head of Operations
 

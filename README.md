@@ -11,15 +11,17 @@
 
 ## Project Overview
 
-## **Project's goal here is to develop an automated report generation file for each client's site listed in the GreEnergy-Supply database, as well as future ones. GreEnergy-Supply has entrusted us with this mission to streamline the report generation process in order to facilitate the acquisition of "White certificate" in compliance with delivery conditions. This initiative aims to meet government targets, 3100 TWhcumac during the current period (the 5th 2022-2025) and hence reduce fossil energy consumption.** 
+## **Project's goal here is to develop an automated report generation file for each client's site listed in the GreEnergy-Supply database, as well as future ones. GreEnergy-Supply has entrusted us with this mission to streamline the report generation process in order to facilitate the acquisition of "White certificate" in compliance with delivery conditions. This initiative aims to meet government targets for energy savings, 3100 TWhcumac currently (5th period 2022-2025) by increasing the use of renewable energy or reduce energy consumption from fossil fuels.** 
 
 ## Project Background
 
 Greenery - CleanEnergy est un fournisseur d’énergie spécialisé dans la fourniture d’énergie et d’équipement à faible consommation (d’energie). Le gouvernement a promulgué en (XXX) la loi POPE ; obligeant les fournisseurs d’énergie à atteindre un objectif en terme de volume TWhcumac selon la période (2022-2025 = 5th period - 3100 TWhcumac) ceci afin lutter face aux crises et dérèglements climatiques que nous subissons à l’échelle mondiale. 
 
-C’est pourquoi les fournisseurs proposent un système de financement auprès des (cibles - propriétaire de logement) dans le but effectuer des travaux de rénovation et donc réduire l’empreinte carbone (more precise). Les fournisseurs reçoivent alors un Certificat d’Économie d’Énergie en contre-partie du financement des rénovation, attestant (l’économie d’énergie réalisée) l’effort fournit en terme d’économie d’énergie.
+GreEnergy-Supply is a french energy supplier specializing in equipment and provide of renewable and thermal energy. The French Govermennt, which has established political measures towards energy transition with P.O.P.E law in 2005, is conducting a high political pressure towards energy suppliers in order to reduce energy consumption. As we ended the 5th period (2022-2025), the energy savings target has been fixed to 3100 TWhcumac (amount splited between energy supplier), a unit mesure of energy saving where 1kWh cumac represents a singular "White Certificate". 
 
-Plusieurs types d’équipement et d’installation permettent l’obtention de ces certificats CEE, GreenEnergy / CleanEnergy se focalise sur celle de type BAR SE-104; le “réglage des organes d’équilibrage d’une installation de chauffage à eau chaude”  procédure centrée sur une répartition équilibrée de la chaleur dans différents logements…
+White Certificate or Energy Savings Certificate (ESC) is supplier's "gold ticket" that guarantees its efforts in reducing energy consumption and the exemption from taxes as well. To support this they initiate incitative energy-improvement interventions in their equipment by offering funds to their clients, whether their statut (private or companies) or if it concerns thermal or electrical fields. 
+
+These certificates cover a huge selection of interventions and applications. GreEnergy-Supply is focusing on BAR SE-104: "Balancing Heating System" a process that guarantees a balanced distribution of heat across different appartment.
 
 In order the sales and marketing teams have engaged our expertise as data analysts to leverage data collected over the past year. The analysis aims to provide a deeper understanding of sales performance across product types and customer segments, and to support impactful decision-making for strategy development.
 

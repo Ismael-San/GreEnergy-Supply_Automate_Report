@@ -30,8 +30,6 @@ In order the sales and marketing teams have engaged our expertise as data analys
 
 ## Business Case Request from Head of Operations
 
-Stakeholder Request:
-
 "Hello Ismael,
 
 I hope you are doing well, 

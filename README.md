@@ -21,11 +21,7 @@ White Certificate or Energy Savings Certificate (ESC) is supplier's "gold ticket
 
 These certificates cover a huge selection of interventions and applications. GreEnergy-Supply is focusing on BAR SE-104: "Balancing Heating System" a process that guarantees a balanced distribution of heat across different appartment.
 
-To achieve this, the energy-product section has engaged our expertise as data analysts to leverage data collected from each site that is eligible for BAR SE-104 certificate delivery. The mission aims to generate Python code that will automatically create a report for each site based on the elements required to obtain the Energy Savings Certificate.
-
-accelerate transition and accomplish objectives dressed by the government in terms of TWhcumac 
-
-
+To achieve this, the energy-product section has engaged our expertise as data analysts to leverage data collected from each site that is eligible for BAR SE-104 certificate delivery. The mission aims to generate Python code that will automatically create a report for each site based on the elements required to facilitate and increase the obtention of Energy Savings Certificate and ultimately meet the energy savings fixed by the government.
 
 ## Business Case Request from Head of Operations
 

@@ -30,6 +30,30 @@ In order the sales and marketing teams have engaged our expertise as data analys
 
 ## Business Case Request from Head of Operations
 
+Stakeholder Request:
+
+"Hello Ismael,
+
+I hope you are doing well, 
+
+Our energy-product team is preparing a national energy consumption campaign towards the all country in order to (deeply or alternative) increase the obtention of “White Certificate” in the country. For that we need to ease the generation of report that regroup site information need to obtain these certificates. 
+
+Can you help us provide a script code using Python that will automatically generate an individually report for each of our clients based on their data present in our database.
+
+Here is a deep look of different elements present in each “site” folder that I have attached:
+
+- A folder called “Site_Data” that regroup all client data in excel files
+- A PDF file that you will use as template (only page 1 - 5 - 7 - 8 and 10 need modification - the rest can add to each report)
+- Image folder which/that contains client photos of different pieces “Chaufferie”, “Façade”, “Vannes”, “Pompes” that you need to replace in the template report
+
+What you need to know: each client file will be located inside a “REPORT_EQ_23(= the year)/T1(= trimester)/R122( = report number)-Site_Name”
+
+Feel free to send any questions in the meantime,
+
+Looking forward to hearing from you,
+
+Emma”
+
 ## Data Structure
 
 An interactive Tableau Desktop dashboard can be found [here](https://public.tableau.com/app/profile/ismael.cisse/viz/ElecTechAnalysis/ExecutiveOverview?publish=yes).

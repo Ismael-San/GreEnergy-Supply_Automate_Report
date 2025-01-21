@@ -14,8 +14,9 @@
 
 ## Project Background
 
-Founded in June 2023, ElecTech is an e-commerce company specializing in high-tech products and serving customers across Europe. In September 2023, the company launched its first website platform/marketplace, enabling customers to buy products directly.
-Now that a year has passed since the platform's launch, the sales and marketing teams have engaged our expertise as data analysts to leverage data collected over the past year. The analysis aims to provide a deeper understanding of sales performance across product types and customer segments, and to support impactful decision-making for strategy development.
+Greenery - CleanEnergy est un fournisseur d’énergie spécialisé dans la fourniture d’énergie et d’équipement à faible consommation (d’energie). Le gouvernement a promulgué en (XXX) la loi POPE ; obligeant les fournisseurs d’énergie à atteindre un objectif en terme de volume TWhcumac selon la période (2022-2025 = 5th period - 3100 TWhcumac) ceci afin lutter face aux crises et dérèglements climatiques que nous subissons à l’échelle mondiale. 
+C’est pourquoi les fournisseurs proposent un système de financement auprès des (cibles - propriétaire de logement) dans le but effectuer des travaux de rénovation et donc réduire l’empreinte carbone (more precise). Les fournisseurs reçoivent alors un Certificat d’Économie d’Énergie en contre-partie du financement des rénovation, attestant (l’économie d’énergie réalisée) l’effort fournit en terme d’économie d’énergie.
+Plusieurs types d’équipement et d’installation permettent l’obtention de ces certificats CEE, GreenEnergy / CleanEnergy se focalise sur celle de type BAR SE-104; le “réglage des organes d’équilibrage d’une installation de chauffage à eau chaude”  procédure centrée sur une répartition équilibrée de la chaleur dans différents logements…
 
 **In order to evaluate sales performance, we focused our insights and recommendations on the following key metrics:**
 

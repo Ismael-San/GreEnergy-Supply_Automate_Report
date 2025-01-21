@@ -11,9 +11,7 @@
 
 ## Project Overview
 
-## **The goal of this project is to provide valuable insights into the sales performance of a e-commerce company over the past year. By analyzing various aspects of the sales data such as revenue, customer behaviour and product-level performance, we aim to identify patterns, implement effective solutions and produce data-driven recommendations for its marketing and sales teams.** Template
-
-## **The project’s goal here was to (provide/create find the most suitable verb) an automate report for each site present in XXX database. By using client’s data (Info-Equilibrage-Température and photos folders; Chaufferie - Pompes - Vannes, we aim to generate a Python code that will generate automatic report. XXX assigned to us this mission in order to increase the generation of reports and facilitate the obtention of “white certificate”, and hence achieved goal fixed by the government and so reduce the energy (fossil) consumption.** 
+## **The project’s goal here is to (provide/create find the most suitable verb) an automate report for each site present in GreEnergy-Supply database and ones that will be add in the future. By using client’s data (Info-Equilibrage-Température and photos folders; Chaufferie - Pompes - Vannes, we aim to generate a Python code that will generate automatic report. GreEnergy-Supply assigned to us this mission in order to increase the generation of reports  and facilitate the obtention of “white certificate” in respect of its delivery conditions, and hence achieved goal fixed by the government and so reduce the energy (fossil) consumption.** 
 
 ## Project Background
 

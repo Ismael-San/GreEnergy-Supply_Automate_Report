@@ -11,7 +11,7 @@
 
 ## Project Overview
 
-## **Project's goal here is to develop an automated report generation file for each client's site listed in the GreEnergy-Supply database, as well as future ones. GreEnergy-Supply has entrusted us with this mission to streamline the report generation process in order to facilitate the acquisition of "White certificate" in compliance with delivery conditions. This initiative aims to meet government targets for energy savings, 3100 TWhcumac currently (5th period 2022-2025) by increasing the use of renewable energy or reduce energy consumption from fossil fuels.** 
+## **Project's goal here is to develop an automated report generation file for each client's site listed in the GreEnergy-Supply database, as well as future ones. GreEnergy-Supply has entrusted us with this mission to streamline the report generation process in order to facilitate the acquisition of "White certificate" in compliance with delivery conditions. This initiative aims to meet government targets for energy savings by increasing the use of renewable energy or reduce energy consumption from fossil fuels.** 
 
 ## Project Background
 

@@ -31,15 +31,13 @@ The mission aims to generate an automated report using Python that meets certifi
 
 I hope you are doing well,
 
-Well 5th period is coming to the end and our energy-product team is currently preparing a detailed-report (compte rendu) that retrieves all interventions related to BAR SE-104 operations towards/concerning our clients. In order to be eligible and collect the CEE delivered by the government, we need to generate, for each site, a singular report that regroups justified document specific to the operation such as client’s data, photos (boiler, pump etc…) 
-
-*comme présence de conditions requises notamment la présence de document justificatifs pour la délivrance de certificats - 
+As the 5th period is coming to the end, our energy-product team is currently preparing a detailed-report (compte rendu) that retrieves all interventions related to BAR SE-104 operations towards/concerning our clients. In order to be eligible and collect the CEE delivered by the government, we need to generate, for each site, a singular report that regroups justified documentation needed to testify the intervention and so the energy saved. 
 
 Can you please help us providing a Python script code that will automatically generate individual report for each of our clients based on their data collected inside our database. 
 
-Here is a deeper look of elements that compose  “site” folder that I have attached:
+Here is a deeper look of elements that compose “site” folder that I have attached:
 
-- a folder called “Site_Data” that regroup clients information in excel files (”données_clients” file that contains three sheets : Info - Équilibrage - Températures
+- A folder called “Site_Name_Data” that regroups clients information in an excel file called ”données_clients”, file which contains three sheets : Info - Équilibrage - Températures.
 - “Images” folder which/that contains client photos of different pieces “Chaufferie”, “Façade”, “Vannes”, “Pompes” that you will need to replace in the template report
 - A PDF file that you will use as template (page 1 - 5 - 7 - 8 - 10 need modification for each client - the rest is unchanged)
 

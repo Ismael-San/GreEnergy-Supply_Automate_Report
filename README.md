@@ -15,7 +15,7 @@
 
 ## Project Background
 
-GreEnergy-Supply is a french energy supplier specializing in equipment and provide of renewable and thermal energy. The French Govermennt, which has established political measures towards energy transition with P.O.P.E law in 2005, is conducting a high political pressure towards energy suppliers in order to reduce energy consumption. As we ended the 5th period (2022-2025), the energy savings target has been fixed to 3100 TWhcumac (amount splited between energy supplier), a unit mesure of energy saving where 1kWh cumac represents a singular "White Certificate". 
+GreEnergy-Supply is a french energy supplier specializing in equipment and provide (or providing) of renewable and thermal energy. The French Govermennt, which has established political measures towards energy transition with P.O.P.E law in 2005, is conducting a high political pressure towards energy suppliers in order to reduce energy consumption. As we ended the 5th period (2022-2025), the energy savings target has been fixed to 3100 TWhcumac (amount splited between energy supplier), a unit mesure of energy saving where 1kWh cumac represents a singular "White Certificate". 
 
 White Certificate or Energy Savings Certificate (ESC) is supplier's "gold ticket" that guarantees its efforts in reducing energy consumption and the exemption from taxes as well. To support this they initiate incitative energy-improvement interventions in their equipment by offering funds to their clients, whether their statut (private or companies) or if it concerns thermal or electrical fields. 
 

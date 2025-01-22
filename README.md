@@ -23,6 +23,9 @@ These certificates cover a huge selection of interventions and applications. Gre
 
 To achieve this, the energy-product section has engaged our expertise as data analysts to leverage data collected from each site that is eligible for BAR SE-104 certificate delivery. The mission aims to generate Python code that will automatically create a report for each site based on the elements required to facilitate and increase the obtention of Energy Savings Certificate and ultimately meet the energy savings fixed by the government.
 
+To achieve this, the product team has engaged my expertise as a data analyst to leverage data collected from GreEnergy-Supply's eligible clients (residential and tertiary buildings) for the certificate.
+The mission aims to generate Python code to automate a report for client who received an energy-improvement intervention and has documentation certifying the energy savings obtained as a result of the measure.
+
 ## Business Case Request from Head of Operations
 
 "Hello Ismael,

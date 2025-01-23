@@ -69,6 +69,6 @@ The Python file utilised to clean, organize, and prepare data for the dashboard 
 
 ## Certificate Delivery Conditions
 
-![alt text]()
+![alt text](https://github.com/Ismael-San/GreEnergy-Supply_Automate_Report/blob/main/Other%20FIles/Certificate%20Delivery%20Requirement.png)
 
 ## Caveats & Assumptions

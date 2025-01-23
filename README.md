@@ -29,25 +29,28 @@ The mission aims to generate an automated report using Python that meets certifi
 
 "Hello Ismael,
 
-I hope you are doing well,
+I hope you're doing well.
 
-As the 5th period is coming to the end, our energy-product team is currently preparing a detailed-report (compte rendu) that retrieves all interventions related to BAR SE-104 operations towards/concerning our clients. In order to be eligible and collect the CEE delivered by the government, we need to generate, for each site, a singular report that regroups justified documentation needed to testify the intervention and so the energy saved. 
+As the 5th period is nearing its end, our energy-product team is preparing a detailed report summarizing interventions related to BAR SE-104 operations with our clients. To be eligible for the CEE (Certificat d’Économies d’Énergie) granted by the government, we need to generate an individual report for each site. These reports will compile the necessary documentation that justifies the intervention and the energy savings.
 
-Can you please help us providing a Python script code that will automatically generate individual report for each of our clients based on their data collected inside our database. 
+Could you assist us by providing a Python script that will automatically generate the individual reports for each of our clients based on the data stored in our database?
 
-Here is a deeper look of elements that compose “site” folder that I have attached:
+Here is a breakdown of the elements included in the “site” folder that I have attached:
 
-- A folder called “Site_Name_Data” that regroups clients information in an excel file called ”données_clients”, file which contains three sheets : Info - Équilibrage - Températures.
-- “Images” folder which/that contains client photos of different pieces “Chaufferie”, “Façade”, “Vannes”, “Pompes” that you will need to replace in the template report
-- A PDF file that you will use as template (page 1 - 5 - 7 - 8 - 10 need modification for each client - the rest is unchanged)
+- “Site_Name” folder which contains an Excel file titled “données_clients.” This file has three sheets: Info, Équilibrage, and Températures, which include the relevant client data.
+- “Images” folder that includes client photos of various components, such as boilers, valves and pumps, which need to be inserted into the template report.
+- A PDF file serving as the template for the report
 
-Additional information: each client’s file are located in a file called “REPORT_EQ_23(23 correspond to the year)/T1(= trimester)/R122( = report number)-Site_Name”
+For your reference, each client’s file is located in a folder structure as follows: “.../REPORT_EQ_XX/TX/RXXX-Site_Name”.
+Where "_XX/" represents the year, TX indicates the trimester and RXXX is the report number.
 
-Feel free to send any questions in the meantime,
+Please feel free to reach out with any questions in the meantime.
 
-Looking forward to hearing from you,
+Looking forward to hearing from you.
 
-Gabrielle”
+Best regards,
+
+Gabrielle“
 
 ## Data Structure
 

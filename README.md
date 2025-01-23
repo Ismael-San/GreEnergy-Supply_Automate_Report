@@ -69,6 +69,6 @@ The Python file utilised to clean, organize, and prepare data for the dashboard 
 
 ## Certificate Delivery Conditions
 
-![screenshot](/Users/ismaelcisse/Desktop/Certificate_Delivery_Conditions.png)
+![alt text]([http://url/to/img.png](https://static.ep-builder.com/products/maxeem/fichesOperationsStandardisees/BARSE104%20(v.A19.1).pdf))
 
 ## Caveats & Assumptions

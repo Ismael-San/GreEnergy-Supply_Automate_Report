@@ -69,4 +69,6 @@ The Python file utilised to clean, organize, and prepare data for the dashboard 
 
 ## Certificate Delivery Conditions
 
+![screenshot](/Users/ismaelcisse/Desktop/Certificate_Delivery_Conditions.png)
+
 ## Caveats & Assumptions

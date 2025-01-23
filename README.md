@@ -42,6 +42,7 @@ Here is a breakdown of the elements included in the “site” folder that I hav
 - A PDF file serving as the template for the report
 
 For your reference, each client’s file is located in a folder structure as follows: “.../REPORT_EQ_XX/TX/RXXX-Site_Name”.
+
 Where "_XX/" represents the year, TX indicates the trimester and RXXX is the report number.
 
 Please feel free to reach out with any questions in the meantime.

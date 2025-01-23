@@ -57,7 +57,7 @@ Gabrielle“
 
 ## Data Structure
 
-See the notebook for data automated report in the Python Notebook.
+See the notebook for data automated report in the [here]Python Notebook.
 The Python file utilised to clean, organize, and prepare data for the dashboard can be found here(insert link).
 
 (Insert Screen of Dataset - from Python)

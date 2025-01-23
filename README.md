@@ -69,5 +69,6 @@ The Python file utilised to clean, organize, and prepare data for the dashboard 
 
 ## Certificate Delivery Conditions
 
+![alt text]()
 
 ## Caveats & Assumptions

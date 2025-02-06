@@ -57,10 +57,7 @@ Gabrielle“
 
 ## Data Structure
 
-See the notebook for data automated report in the [here]Python Notebook.
-The Python file utilised to clean, organize, and prepare data for the dashboard can be found here(insert link).
-
-(Insert Screen of Dataset - from Python)
+See the notebook for data automated report in the [Python Notebook](https://github.com/Ismael-San/GreEnergy-Supply_Automate_Report/blob/main/FINAL%20COUNTDOWN.ipynb).
 
 ```Python
 
@@ -69,5 +66,6 @@ The Python file utilised to clean, organize, and prepare data for the dashboard 
 
 ## Certificate Delivery Conditions
 
+![alt text](https://github.com/Ismael-San/GreEnergy-Supply_Automate_Report/blob/main/Other%20FIles/Certificate%20Delivery%20Requirement.png)
 
 ## Caveats & Assumptions
